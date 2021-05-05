@@ -1,1 +1,1 @@
-# Iconogrphie et zones annotées
+# Iconographie et zones annotées
