@@ -8,3 +8,5 @@ Pour aborder ce sujet
 * [Présentation du sujet](/Presentation.md)
 * [Les Outils utilisés](/Outils.md)
 * [Axe et problématique](Axeetproblematique.md)
+* L'utilisation du corpus
+
