@@ -1,3 +1,3 @@
 # Iconographie et zones annotées
 
-[Présentation](Presentation.md)
+[Présentation](/Presentation.md)
