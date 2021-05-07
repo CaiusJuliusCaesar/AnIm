@@ -20,4 +20,4 @@ Jusqu'à la petite présentation rapide de ce que nous avions fait lors de cette
 
 
 
-                                                                                                                                                  [Jour 2](/jour_2.md)
+[Jour 2](/jour_2.md)
