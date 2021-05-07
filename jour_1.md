@@ -9,6 +9,7 @@ Voici les outils en questions :
 * Crotos
 * Wikidata image positions
 * Wikimédia commons
+
 Après avoir compris le fonctionnement de ces outils, nous avons commencé à réfléchir à notre thème, notre axe et les problématiques.
 
 ## Le questionnement sur l'axe et la problématique
@@ -19,4 +20,4 @@ Jusqu'à la petite présentation rapide de ce que nous avions fait lors de cette
 
 
 
-[Jour 2](/jour_2.md)
+                                                                                                                                                  [Jour 2](/jour_2.md)
