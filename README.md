@@ -4,9 +4,9 @@ Lors du séminaire "Master Infocom Paris Nanterre" qui se tient du 3 mai au 7 ma
 
 L'un des sujets proposés est "l'iconographie et zones annotées" et c'est celui que Nina Sarthou, Thomas Jibordel, Paul Darricarrère et Julien Matteï ont choisi.
 
-Pour aborder ce sujet 
-* [Présentation du sujet](/Presentation.md)
-* [Les Outils utilisés](/Outils.md)
-* [Axe et problématique](Axeetproblematique.md)
-* L'utilisation du corpus
+Pour aborder ce sujet, nous avons choisi de le présenter sous forme chronologique pour insister sur l'aspect marathon:
+* [1er jour : mardi 4 mai 2021]
+* [2ème jour : mercredi 5 mai 2021]
+* [3ème jour : jeudi 6 mai 2021]
+* [4ème et dernier jour : vendredi 7 mai 2021]
 
