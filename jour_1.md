@@ -15,7 +15,7 @@ Après avoir compris le fonctionnement de ces outils, nous avons commencé à r�
 ## Le questionnement sur l'axe et la problématique
 Afin de comprendre ce qui était attendu de nous, nos encadrant nous ont souvent donné comme exemple le chat ("potichat") ou le dragon, nous avons alors pensé être orienté sur notre choix de thème ou d'axe mais ce n'était bien sur que des exemples pour entrer enfin dans le vif du sujet.
 
-Jusqu'à la petite présentation rapide de ce que nous avions fait lors de cette première journée de travail, notre thème n'était pas encore vraiment fixé. Mais nous étions sur une piste avec l Narcissisme dans la peinture. Par contre pour arriver à ce concept nous avons erré de concept en concept avec la representation de la mort dans l'art.
+Jusqu'à la petite présentation rapide de ce que nous avions fait lors de cette première journée de travail, notre thème n'était pas encore vraiment fixé. Mais nous étions sur une piste avec l Narcissisme dans la peinture. Par contre pour arriver à ce concept nous avons erré de concept en concept avec la representation de la mort dans l'art par exemple.
 
 
 
